@@ -10,4 +10,4 @@
 
 6.[以CDN方式引入babel和polyfill使用ES6](https://github.com/gottayan/note/issues/6)
 
-7.[ES6](https://github.com/gottayan/note/issues/7)
+7.[ES6-let和const命令](https://github.com/gottayan/note/issues/7)
