@@ -13,3 +13,5 @@
 7.[ES6-let和const命令](https://github.com/gottayan/note/issues/7)
 
 8.[前端面试题](https://github.com/gottayan/note/issues/8)
+
+9.[检验数组的方法](https://github.com/gottayan/note/issues/9)
