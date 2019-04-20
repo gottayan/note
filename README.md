@@ -16,3 +16,5 @@
 8.[前端面试题](https://github.com/gottayan/note/issues/8)
 
 9.[检验数组的方法](https://github.com/gottayan/note/issues/9)
+
+10.[简单手写实现promise](https://github.com/gottayan/note/issues/10)
