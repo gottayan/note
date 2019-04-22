@@ -18,3 +18,5 @@
 9.[检验数组的方法](https://github.com/gottayan/note/issues/9)
 
 10.[简单手写实现promise](https://github.com/gottayan/note/issues/10)
+
+11.[性能优化相关](https://github.com/gottayan/note/issues/11)
