@@ -11,7 +11,7 @@
 
 6.[以CDN方式引入babel和polyfill使用ES6](https://github.com/gottayan/note/issues/6)
 
-7.[ES6-let和const命令](https://github.com/gottayan/note/issues/7)
+7.[let和const](https://github.com/gottayan/note/issues/7)
 
 8.[前端面试题](https://github.com/gottayan/note/issues/8)
 
