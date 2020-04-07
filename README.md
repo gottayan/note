@@ -29,3 +29,7 @@
 
 15.vscode-nodemon: 在node项目使用nodemon
    （配置launch.json 配合nodemon 运用vscode内置调试功能 无需手动重启node服务进行调试）
+   
+16.chat: 聊天室（node、socket.io）
+
+17.[git-commitlint](https://github.com/gottayan/note/issues/13)
