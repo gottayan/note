@@ -25,7 +25,7 @@
 
 13.scroll：页面跳转记忆位置
 
-14.test-babel：注入babel转义代码
+14.test-babel：注入babel转义代码（以cdn方式使用ES6）
 
 15.vscode-nodemon: 在node项目使用nodemon
-
+   （配置launch.json 配合nodemon 运用vscode内置调试功能 无需手动重启node服务进行调试）
