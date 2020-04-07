@@ -25,3 +25,7 @@
 
 13.scroll：页面跳转记忆位置
 
+14.test-babel：注入babel转义代码
+
+15.vscode-nodemon: 在node项目使用nodemon
+
